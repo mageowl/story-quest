@@ -1,0 +1,17 @@
+In the Dragon Cave:
+	"The cave is damp and dark."
+
+	There is a dragon: "A large red lizard, it seems to be guarding an opening in the wall, but is currently deep in sleep."
+	The dragon is sleeping.
+
+	There is a robot: "A mechanical wonder, filled with brass gears and rainbow wires. It is currently missing a piece."
+	If the dragon is sleeping:
+		You can not take the robot: "You can not risk to wake the dragon."
+	
+	Outside is the field.
+
+In the field:
+	"there is grass."
+
+	Inside is the Dragon Cave.
+
